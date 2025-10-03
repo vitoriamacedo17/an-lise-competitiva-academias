@@ -1,3 +1,4 @@
+![IMG_8167](https://github.com/user-attachments/assets/ea1ed9f7-34a8-47b4-b38f-0e1447969f1c)
 # analise-competitiva-academias
 Estudo de caso usando Google Sheets para análise de posicionamento de mercado
 
